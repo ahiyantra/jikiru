@@ -1,2 +1,2 @@
 # jikiru
-jekyll experiment
+experimental blog using jekyll
